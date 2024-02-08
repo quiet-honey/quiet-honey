@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=Pytest&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=JUnit5&logoColor=white" /><br>
