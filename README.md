@@ -27,9 +27,14 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />  
+  [![quiethoney's GitHub stats](https://github-readme-stats.vercel.app/api?username=quiet-honey)](https://github.com/quiet-honey/github-readme-stats)
+
 </div>
 
+
 <div align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quiet-honey&layout=compact">
+  
 </div>
   
