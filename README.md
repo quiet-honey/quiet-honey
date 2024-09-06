@@ -1,7 +1,7 @@
 # ✨Hello World✨
 
-반갑습니다👋 백엔드 개발자를 꿈꾸고 있는 꼬마개발자🌱 quiet_honey입니다😀    
-홍익대학교 컴퓨터공학과 재학중이며, 느리지만 꾸준하게 나아가기 위해 노력하고 있습니다~!!  
+반갑습니다👋 백엔드 개발자로 막 걸음마를 디딘 꼬마개발자🌱 quiet_honey입니다😀    
+느리지만 꾸준하게 성장하고 앞으로 나아가기 위해 노력하고 있습니다~!!  
 ``지속적인 성장을 추구하는 지속가능한 개발자``가 되고 싶습니다!!!
 
 <div align="center">
@@ -21,12 +21,12 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=mongoDB&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />  
   
   🛠Techs I've used least once<br>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />  
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />  
   [![quiethoney's GitHub stats](https://github-readme-stats.vercel.app/api?username=quiet-honey)](https://github.com/quiet-honey/github-readme-stats)
 
 </div>
